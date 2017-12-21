@@ -31,3 +31,7 @@ p {
 video {
   object-fit: contain;
 }
+
+p.copyright {
+  text-align: right;
+}
